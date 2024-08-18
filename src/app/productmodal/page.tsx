@@ -1,6 +1,8 @@
 import ProductModalContainer from "@/components/productmodal/ProductModalContainer";
 import ProductModalCardContainer from "@/components/productmodal/ProductModalCardContainer";
 import ProductModalContent from "@/components/productmodal/ProductModalContent";
+import PricingCardsContainer from "@/components/pricingcards/PricingCardsContainer";
+import React from "react";
 
 export default function ProductModalPage() {
 

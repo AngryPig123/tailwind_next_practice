@@ -27,6 +27,13 @@ export default function MainPage() {
                     Product Modal
                 </Link>
 
+                <Link
+                    className="p-6 m-6 bg-sky-300 rounded-2xl text-center"
+                    href={"/openmodalpage"}
+                >
+                    Open Modal Page
+                </Link>
+
             </div>
         </>
     )
