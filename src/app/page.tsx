@@ -20,6 +20,13 @@ export default function MainPage() {
                     Pricing Cards
                 </Link>
 
+                <Link
+                    className="p-6 m-6 bg-sky-300 rounded-2xl text-center"
+                    href={"/productmodal"}
+                >
+                    Product Modal
+                </Link>
+
             </div>
         </>
     )

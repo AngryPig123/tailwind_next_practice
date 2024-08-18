@@ -1,7 +1,7 @@
 import React from "react";
 import PricingCardsContainer from "@/components/pricingcards/PricingCardsContainer";
 
-export default function PricingCardsLayout({children}: { children: React.ReactNode }) {
+export default function ProductModalPageLayout({children}: { children: React.ReactNode }) {
 
     return (
         <>
