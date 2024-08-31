@@ -34,6 +34,20 @@ export default function MainPage() {
                     Open Modal Page
                 </Link>
 
+                <Link
+                    className="p-6 m-6 bg-sky-300 rounded-2xl text-center"
+                    href={"/form"}
+                >
+                    form
+                </Link>
+
+                <Link
+                    className="p-6 m-6 bg-sky-300 rounded-2xl text-center"
+                    href={"/clipboard"}
+                >
+                    Clip Board
+                </Link>
+
             </div>
         </>
     )
